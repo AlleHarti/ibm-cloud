@@ -6,9 +6,9 @@ Despite significant progress in power system monitoring and automation, there is
 
 Most existing fault detection techniques rely on manual inspection, fixed threshold rules, or signal-based methods, which are:
 
-* Time-consuming** and unsuitable for real-time fault handling
-* Error-prone**, especially in noisy environments or complex grid topologies
-* Not scalable**, as they require manual tuning for each specific network scenario
+* Time-consuming and unsuitable for real-time fault handling
+* Error-prone, especially in noisy environments or complex grid topologies
+* Not scalable, as they require manual tuning for each specific network scenario
 
 This lack of a robust, automated, and scalable fault diagnosis system poses a major risk to grid reliability, safety, and recovery time during failures.
 
